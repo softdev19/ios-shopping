@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4A5F197-03E0-4715-A8DE-61EF90082ADA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>eComerceApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9DD6EF52-E1DC-43DB-BB6B-8A501F46CFCF</key>
+		<string>https://bitbucket.org/t_issa/ecommerce-iphone-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>eComerceApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9DD6EF52-E1DC-43DB-BB6B-8A501F46CFCF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/t_issa/ecommerce-iphone-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9DD6EF52-E1DC-43DB-BB6B-8A501F46CFCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9DD6EF52-E1DC-43DB-BB6B-8A501F46CFCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ecommerce-iphone-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
